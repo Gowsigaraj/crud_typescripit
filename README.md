@@ -73,5 +73,4 @@ export default defineConfig([
 ```
 ## this is main branch changes 
 ## just checking only
-
-## this is bug branches check once
+## react typescript 
